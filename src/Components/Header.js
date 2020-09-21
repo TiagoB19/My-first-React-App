@@ -1,6 +1,5 @@
 import React from 'react';
 import Navigation from '../Navigation';
-import HelloWorld from './HelloWorld';
 
 
 const Header = () => {
